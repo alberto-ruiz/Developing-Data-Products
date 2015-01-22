@@ -1,3 +1,3 @@
 # Developing-Data-Products
 
-This repository includ material for curse developing data products
+This repository includ presentation for curse developing data products
